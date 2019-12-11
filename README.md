@@ -2,7 +2,10 @@
 ## Todos
 
 Fill out readme
+Fix scoring system
+Improve Responsive
+Discover mobile controls
 
-(Visit this site)[https://tetrisreact-7kjwzi1um.now.sh/]
+[Play Tetris!](https://tetrisreact-7kjwzi1um.now.sh/)
 
 
